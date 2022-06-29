@@ -1,1 +1,3 @@
-# WebSimpleComputer
+# 简易的 web 计算机
+### 基本功能
+#### 加减乘除、回退、清除
